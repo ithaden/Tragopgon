@@ -1,0 +1,11 @@
+R main
+
+Process flow
+R_link_R.R -> link together all of the data file
+R_cluster_R.R -> cluster the data by contig/species
+R_call_R.R -> call the data by cluster center
+R_calc_parents_R.R -> calculate the parent call percentatges
+R_calc_inheritance_R.R -> use parent calls to calculate a dosage of chile (by % dubius)
+R_anal_drift_R.R -> compare inheritance of cDNA to gDNA
+
+
