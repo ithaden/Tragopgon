@@ -1,4 +1,4 @@
-# Tragopgon
+# Tragopogon
 Data and code for Tragopogon genomics
 Here you will find the R scripts and data for the data generated and analyzed for the manuscript titled: 
 
